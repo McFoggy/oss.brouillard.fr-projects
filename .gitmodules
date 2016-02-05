@@ -1,3 +1,6 @@
 [submodule "ouioui-loginmodule"]
 	path = ouioui-loginmodule
 	url = https://github.com/McFoggy/ouioui-loginmodule.git
+[submodule "cssfx"]
+	path = cssfx
+	url = https://github.com/McFoggy/cssfx.git
