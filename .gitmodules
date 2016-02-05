@@ -1,0 +1,3 @@
+[submodule "ouioui-loginmodule"]
+	path = ouioui-loginmodule
+	url = https://github.com/McFoggy/ouioui-loginmodule.git

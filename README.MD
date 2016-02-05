@@ -1,0 +1,1 @@
+# Centralization of McFoggy OSS
